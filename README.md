@@ -446,12 +446,6 @@ npm run build
 
 ---
 
-## 📄 License
-
-Distributed under the **MIT License**. Use it freely for personal or commercial projects.
-
----
-
 <div align="center">
 
 Built with ❤️ by **Nitesh Kumar Chauhan**
